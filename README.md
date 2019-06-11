@@ -3,7 +3,7 @@ To be a data scientist
 
 
 |          |   Theory      |  Programming |  Project Practise |
-|----------|:-------------|-------------:|------:|
+|----------|:-------------|:-------------|:------|
 | Level I  |  概率论基础    | Excel      | 回归/分类 |
 |          |  统计分布      |	SQL（ETL）  | 	基础分析报告撰写（PPT）| 
 |          |  方差检验      |	BI Tool（可视化）	||
