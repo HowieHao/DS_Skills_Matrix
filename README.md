@@ -1,7 +1,6 @@
 # DS_Skills_Matrix
 To be a data scientist
 
-
 |          |   Theory      |  Programming |  Project Practise |
 |----------|:-------------|:-------------|:------|
 | Level I  |  概率论基础    | Excel                        | 回归/分类             |
@@ -46,5 +45,6 @@ Cons：在项目的设计上需要投入较大的精力
 -  完善数据科学家技能矩阵
 -  补充每个技能点下的知识点 
 -  确认系列书籍的编辑设计路线
+
 
 
